@@ -61,6 +61,7 @@ end
 group :development do
   gem "factory_bot", "6.2.1"
   gem "rspec-rails", "6.0.0"
+  gem "shoulda-matchers", "5.0"
   # Use console on exceptions pages [https://github.com/rails/web-console]
   gem "web-console"
 
